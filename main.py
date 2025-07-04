@@ -1,9 +1,11 @@
+from dotenv import load_dotenv
+load_dotenv()  # so os.getenv actually works when testing locally, meow~
+
 import discord
 import os
 import requests
 from discord.ext import commands
 
-# Load environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 CHAT_API = os.getenv("CHAT_API")
 MODEL = "openrouter/cypher-alpha:free"
