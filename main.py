@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-load_dotenv()  # so os.getenv actually works when testing locally, meow~
+load_dotenv()  # so this line js loads the env file 
 
 import discord
 import os
