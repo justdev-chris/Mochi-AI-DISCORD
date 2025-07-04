@@ -7,7 +7,7 @@ A cute little Discord bot with a built-in AI personality (based on ChatGPT), mad
 ## ✨ Features
 
 - AI personality with cuddly, nerdy, sleepy catboy vibes  
-- Custom creator recognition (you = the best dev ever 😤)  
+- Able to DM the bot
 - Supports message replies using the Cypher-Alpha free model  
 - Simple setup, fully self-contained bot  
 
