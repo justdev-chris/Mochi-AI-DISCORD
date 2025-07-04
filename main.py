@@ -1,10 +1,10 @@
-from dotenv import load_dotenv
-load_dotenv()  # so this line js loads the env file 
-
 import discord
 import os
 import requests
 from discord.ext import commands
+from dotenv import load_dotenv
+
+load_dotenv() # pls workkkk
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 CHAT_API = os.getenv("CHAT_API")
