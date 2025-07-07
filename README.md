@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### 📁 Method 2: Manual Download
 
-1. Download the ZIP from the repo: https://github.com/yourusername/catchat-ai-bot/archive/refs/heads/main.zip  
+1. Download the ZIP from the repo: https://github.com/justdev-chris/Mochi-AI-DISCORD/
 2. Extract it anywhere you want  
 3. Open terminal inside the extracted folder  
 4. Run:
@@ -88,8 +88,8 @@ This will start the bot. If everything is set up correctly, it will log into Dis
 ## 🐾 Usage
 
 - Invite the bot to your Discord server with proper permissions (Send Messages, Read Message History).  
-- Chat with it by mentioning or using commands (command is !ai (yourmessage) ).  
-- You are able to DM the bot but make sure you always include "!ai (your message)"  for it to respond.
+- Chat with it by mentioning or using commands (command is @Mochi Catboy#7208 (yourmessage) ).  
+- You are able to DM the bot but make sure you always include "@Mochi Catboy#7208 (your message)"  for it to respond.
 
 ---
 
