@@ -1,4 +1,7 @@
 discord.py
-openai
-requests
 python-dotenv
+os
+aiohttp
+asyncio
+dotenv
+discord.ext
