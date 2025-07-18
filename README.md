@@ -31,8 +31,8 @@ pip install -r requirements.txt
 
 ### 🧪 Method 1: Clone via Git
 
-git clone https://github.com/yourusername/catchat-ai-bot.git
-cd catchat-ai-bot
+git clone https://github.com/justdev-chris/Mochi-AI-DISCORD.git
+cd Mochi-AI-DISCORD-main
 pip install -r requirements.txt
 
 ### 📁 Method 2: Manual Download
